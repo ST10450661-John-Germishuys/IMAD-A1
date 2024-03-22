@@ -1,0 +1,10 @@
+How to run your emulator:
+1. Start BlueStacks
+2. Click on the gear icon to open the settings
+3. Look for Advanced. 
+4. You find enable ADB (Android Debug Bridge)
+5. You will see a port number , take note of it. It is normally 5555 or 5554
+6. Doulbe click on the emulator script on your desktop ( it has two little gears on it)
+7. Enter your port number to connect the emulator the ADB. 
+8. You can now open Android Studio / Visual Studio code and start coding and run your app. 
+Enjoy mobile dev :)
